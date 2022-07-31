@@ -9,9 +9,4 @@
   
   
   <br>
-- 🔭 I’m currently working on smart contracts
-- 🌱 I’m currently learning react
-- 📫 How to reach me: [Twitter](https://twitter.com/indarav1) [LinkedIn](https://www.linkedin.com/in/aravind-kamuni-b5475a216/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Number four is the only one with the same amount of letters.
-
+  📫 How to reach me: [Twitter](https://twitter.com/indarav1) [LinkedIn](https://www.linkedin.com/in/aravind-kamuni-b5475a216/)
