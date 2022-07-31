@@ -1,5 +1,9 @@
 ### Hi there, I'm Aravind👋
 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=indarav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
 - 🔭 I’m currently working on smart contracts
 - 🌱 I’m currently learning react
 - 👯 I’m open for collaborations
@@ -9,5 +13,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Number four is the only one with the same amount of letters.
 
-
-  https://github-readme-stats.vercel.app/api?username=indarav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
